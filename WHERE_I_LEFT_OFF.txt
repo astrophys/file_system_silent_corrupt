@@ -1,0 +1,15 @@
+To Do : 
+Outline:
+    Initial:
+        Get list of files
+        Compute md5 sums
+        Record access/edit times in class
+        Either pickle class list, maybe organize like directory paths.
+    After:
+        Walk file tree.  
+        Compute md5 sum
+        Compare md5 sum and access time
+        Record files with same access times but different md5. Flag as potentially silently corrupted
+        Maintain checkpoint of run
+        Email me
+
