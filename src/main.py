@@ -23,7 +23,7 @@ def print_help(ExitCode):
     FUTURE:
     """
     sys.stderr.write("./src/main.py /path/to/dir\n"
-                     "    /path/to/dir: Path of dir to compare\n"
+                     "    /absolute/path/to/dir: Absolute Path of dir to compare\n"
                      "\nTo run locally, with all correctly installed packages run\n"
                      "     source ~/.local/virtualenvs/python3.6/bin/activate\n")
     sys.exit(ExitCode)
