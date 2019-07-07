@@ -1,4 +1,9 @@
+Did: 
+
 To Do : 
+1. Find os.stat options that are equivalent to 'GetFileInfo'  and 'stat -x'
+
+
 Outline:
     Initial:
         Get list of files

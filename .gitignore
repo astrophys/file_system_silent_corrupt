@@ -2,3 +2,4 @@ src/*.pyc
 src/.*.swp
 .*.swp
 pickle
+src/__pycache__

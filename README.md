@@ -2,6 +2,8 @@
 This code monitors a directory for silent data corruption.
 It looks for changes in md5 sums but without change in file access time.
 
+## License : MIT
+
 ## Install
 #### Dependencies
 1. `Python 3`
